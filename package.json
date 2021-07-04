@@ -82,7 +82,7 @@
     "dompurify": "^2.0.17",
     "get-selection-more": "^1.0.2",
     "i18next": "^17.0.6",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "md5": "^2.2.1",
     "memoize-one": "^5.1.0",
     "normalize-scss": "^7.0.1",
